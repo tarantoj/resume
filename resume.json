@@ -1,0 +1,67 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "James Taranto",
+    "label": "Senior Software Engineer",
+    "email": "jobs@jamestaranto.org",
+    "phone": "+61 423 923 390",
+    "url": "https://jamestaranto.org",
+    "summary": "Software engineer experienced in cloud and full-stack development",
+    "location": {
+      "address": "77 The Avenue",
+      "postalCode": "3058",
+      "city": "Coburg",
+      "countryCode": "AU",
+      "region": "VIC"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/james-taranto/",
+        "username": "james-taranto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Intrepid Travel",
+      "position": "Senior Software Engineer",
+      "url": "https://www.intrepidtravel.com",
+      "startDate": "2019-10-02",
+      "endDate": "2022-02-01",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "url": "https://www.unimelb.edu.au/",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-01",
+      "endDate": "2019-12-29",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ]
+}
